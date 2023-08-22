@@ -1,6 +1,6 @@
 ### Hi, i`m Egor!
 I`m python backend developer and intrested in computer science, asynchronous and multithreading 
-programming, distributed cloud systems, databases. So, welcome to my github page)
+programming, distributed cloud systems, databases, virtual mashines and OS structures. So, welcome to my github page)
 
 ### A few technologies that I use now
 
