@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, i'm Egor</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Python backend developer.</h3>
+### Hi, i`m Egor!
+I`m python backend developer and intrested in computer science, asynchronous and multithreading 
+programming, distributed cloud systems, databases. So, welcome to my github page)
 
 ### A few technologies that I use now
 
