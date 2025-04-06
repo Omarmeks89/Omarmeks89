@@ -7,4 +7,4 @@ programming, distributed cloud systems, databases, virtual mashines and OS struc
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omarmeks89&&size_weight=0.5&count_weight=0.5&hide=html&layout=compact&theme=radical&bg_color=00000000&text_color=ef507b&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omarmeks89&&size_weight=0.5&count_weight=0.5&hide=html,Makefile&layout=compact&theme=radical&bg_color=00000000&text_color=ef507b&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
